@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-01T16:33:18 PDT" name="Suite" finished-at="2022-05-01T16:33:24 PDT" duration-ms="5565">
+    <groups>
+    </groups>
+    <test started-at="2022-05-01T16:33:18 PDT" name="Test" finished-at="2022-05-01T16:33:24 PDT" duration-ms="5565">
+      <class name="com.LSAutomation.lsProject.TestDemo1">
+        <test-method is-config="true" signature="launchDriver()[pri:0, instance:com.LSAutomation.lsProject.TestDemo1@43c1b556]" started-at="2022-05-01T16:33:19 PDT" name="launchDriver" finished-at="2022-05-01T16:33:22 PDT" duration-ms="3313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method signature="Test1()[pri:0, instance:com.LSAutomation.lsProject.TestDemo1@43c1b556]" started-at="2022-05-01T16:33:22 PDT" name="Test1" finished-at="2022-05-01T16:33:24 PDT" duration-ms="2207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.LSAutomation.lsProject.TestDemo1@43c1b556]" started-at="2022-05-01T16:33:24 PDT" name="closeBrowser" finished-at="2022-05-01T16:33:24 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.LSAutomation.lsProject.TestDemo1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
